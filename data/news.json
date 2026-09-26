@@ -1,0 +1,724 @@
+{
+ "updated": "2026-09-26",
+ "sources": [
+  "https://ovd.info/rss.xml",
+  "https://zona.media/rss/news",
+  "https://meduza.io/rss/all",
+  "https://novayagazeta.eu/feed/rss",
+  "https://theins.ru/feed",
+  "https://verstka.media/feed",
+  "https://www.svoboda.org/api/",
+  "https://t.me/s/ovdinfo"
+ ],
+ "items": [
+  {
+   "date": "2026-09-25",
+   "url": "https://zona.media/news/2026/09/25/dmitriyev",
+   "source": "Медиазона",
+   "source_en": "Mediazona",
+   "source_tier": 2,
+   "stage": "other",
+   "title": "Историка Юрия Дмитриева госпитализировали из колонии с подозрением на инсульт",
+   "summary": "По данным ЗПЧ, осуждённого на 15 лет основателя мемориала «Сандормох» экстренно этапировали из ИК-18 в Мордовии в лечебно-исправительное учреждение в Барашеве. Адвокат попробует пройти к нему 26 сентября.",
+   "title_en": "Historian Yury Dmitriev taken to hospital from penal colony with suspected stroke",
+   "summary_en": "According to the rights project ZPCh, the founder of the Sandarmokh memorial, serving 15 years, was urgently moved from penal colony No. 18 in Mordovia to a prison medical facility. A lawyer will try to visit him on 26 September.",
+   "tags": [
+    "политзаключённые"
+   ],
+   "tags_en": [
+    "political prisoners"
+   ],
+   "corroborated_by": [
+    {
+     "url": "https://meduza.io/news/2026/09/25/pravozaschitniki-soobschili-chto-istorika-yuriya-dmitrieva-gospitalizirovali-iz-kolonii-s-podozreniem-na-insult",
+     "source": "Meduza",
+     "tier": 2
+    }
+   ],
+   "checked_at": "2026-09-26T06:55:10Z",
+   "verified_by": "routine-v2"
+  },
+  {
+   "date": "2026-09-25",
+   "url": "https://mediazonaby.com/news/2026/09/25/turma",
+   "source": "Медиазона Беларусь",
+   "source_en": "Mediazona Belarus",
+   "source_tier": 2,
+   "stage": "convicted",
+   "high_stakes": true,
+   "title": "В Беларуси 27-летнего авиатора приговорили к 13 годам колонии за «госизмену»",
+   "summary": "По данным правозащитного центра «Вясна», Минский городской суд назначил Святославу Подвашецкому 13 лет колонии усиленного режима по статьям о госизмене и сбыте наркотиков. Процесс был закрытым.",
+   "title_en": "Belarus: 27-year-old aviator sentenced to 13 years for “treason”",
+   "summary_en": "According to the Viasna human rights centre, Minsk City Court gave Sviatoslau Padvashetski 13 years in an enhanced-security colony on treason and drug charges. The trial was held behind closed doors.",
+   "tags": [
+    "приговоры",
+    "политзаключённые"
+   ],
+   "tags_en": [
+    "verdicts",
+    "political prisoners"
+   ],
+   "corroborated_by": [
+    {
+     "url": "https://reform.news/27-letnego-aviatora-prigovorili-k-13-godam-kolonii-v-belarusi/",
+     "source": "Reform.news",
+     "tier": 2
+    }
+   ],
+   "checked_at": "2026-09-26T06:55:10Z",
+   "verified_by": "routine-v2"
+  },
+  {
+   "date": "2026-09-25",
+   "url": "https://mediazonaby.com/news/2026/09/25/mtbank",
+   "source": "Медиазона Беларусь",
+   "source_en": "Mediazona Belarus",
+   "source_tier": 2,
+   "stage": "convicted",
+   "title": "В Минске осудили сотрудника МТБанка, называвшего российских военных оккупантами",
+   "summary": "Как пишет «Наша Ніва», 50-летнего мужчину осудили в Минском городском суде по статье о разжигании вражды за критику российской агрессии в соцсетях. Наказание неизвестно, сейчас он за решёткой.",
+   "title_en": "Minsk bank employee who called Russian troops occupiers convicted",
+   "summary_en": "According to Nasha Niva, a 50-year-old MTBank employee was convicted by Minsk City Court of inciting hatred over social media posts criticising Russia’s aggression. His sentence is unknown; he is in custody.",
+   "tags": [
+    "приговоры"
+   ],
+   "tags_en": [
+    "verdicts"
+   ],
+   "checked_at": "2026-09-26T06:55:10Z",
+   "verified_by": "routine-v2"
+  },
+  {
+   "date": "2026-09-25",
+   "url": "https://semnasem.org/news/2026/09/25/pervyj-arest-za-flag-uralskoj-respubliki-naznachil-sud-v-ekaterinburge",
+   "source": "7x7",
+   "source_en": "7x7",
+   "source_tier": 2,
+   "stage": "other",
+   "title": "В Екатеринбурге впервые арестовали за флаг «Уральской Республики»",
+   "summary": "Суд арестовал на 10 суток администратора телеграм-группы «Чат Урала» за два поста с флагом движения, которое ФСБ в 2025 году внесла в список террористических. Это первый известный такой случай, пишет «7x7».",
+   "title_en": "First known jail term in Yekaterinburg over “Ural Republic” flag",
+   "summary_en": "A court jailed the admin of the “Urals Chat” Telegram group for 10 days over two posts showing the flag of a movement the FSB listed as terrorist in 2025. It is the first known such case, 7x7 reports.",
+   "tags": [
+    "приговоры"
+   ],
+   "tags_en": [
+    "verdicts"
+   ],
+   "checked_at": "2026-09-26T06:55:10Z",
+   "verified_by": "routine-v2"
+  },
+  {
+   "date": "2026-09-25",
+   "url": "https://jam-news.net/ru/%d1%82%d0%b5%d0%be%d0%bb%d0%be%d0%b3%d0%b0-%d0%b0%d1%80%d0%b5%d1%81%d1%82%d0%be%d0%b2%d0%b0%d0%bb%d0%b8-%d0%bd%d0%b0-30-%d1%81%d1%83%d1%82%d0%be%d0%ba-%d0%b2-%d0%b0%d0%b7%d0%b5%d1%80%d0%b1%d0%b0/",
+   "source": "JAMnews",
+   "source_en": "JAMnews",
+   "source_tier": 2,
+   "stage": "other",
+   "title": "В Азербайджане теолога арестовали на 30 суток после критики ограничений на хиджаб в школах",
+   "summary": "Семья Абгюля Сулейманова связывает административный арест с его постами против ограничений на ношение хиджаба школьницами. Полиция и суд причины публично не называли, пишет JAMnews со ссылкой на Meydan TV.",
+   "title_en": "Azerbaijan: theologian jailed for 30 days after criticising school hijab restrictions",
+   "summary_en": "Abgul Suleymanov’s family link his administrative detention to his posts against restrictions on schoolgirls wearing the hijab. Police and the court gave no public reason, JAMnews reports, citing Meydan TV.",
+   "tags": [
+    "приговоры"
+   ],
+   "tags_en": [
+    "verdicts"
+   ],
+   "checked_at": "2026-09-26T06:55:10Z",
+   "verified_by": "routine-v2"
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Политолога Александра Кынева арестовали по «наркотической» статье",
+   "summary": "Перовский суд Москвы отправил в СИЗО эксперта по выборам, признанного «иноагентом». Ему вменяют сбыт наркотиков в крупном размере (до 20 лет), вину он не признаёт.",
+   "source": "Новая газета Европа",
+   "url": "https://novayagazeta.eu/articles/2026/09/25/politologa-aleksandra-kyneva-zaderzhali-po-narkoticheskoi-state-news",
+   "tags": [
+    "политзаключённые",
+    "иноагенты"
+   ],
+   "title_en": "Political scientist Alexander Kynev remanded in custody on drug charges",
+   "summary_en": "A Moscow court sent the elections expert, already labelled a “foreign agent”, to pre-trial detention on a large-scale drug dealing charge carrying up to 20 years. He denies it.",
+   "source_en": "Novaya Gazeta Europe",
+   "tags_en": [
+    "political prisoners",
+    "foreign agents"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Петербургского адвоката Нурди Шамаева арестовали за комментарий четырёхлетней давности",
+   "summary": "Красносельский суд отправил адвоката в СИЗО по делу об «оправдании терроризма» из-за публикации в соцсетях.",
+   "source": "Медиазона",
+   "url": "https://zona.media/news/2026/09/25/shamaev",
+   "tags": [
+    "адвокаты"
+   ],
+   "title_en": "St Petersburg lawyer Nurdi Shamaev jailed over a four-year-old comment",
+   "summary_en": "A district court remanded the lawyer in custody on charges of “justifying terrorism” over a social media post.",
+   "source_en": "Mediazona",
+   "tags_en": [
+    "lawyers"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "«Ходорковский LIVE» признали «иноагентом»",
+   "summary": "Минюст внёс в реестр «иностранных агентов» новостной YouTube-канал с аудиторией более 3 млн подписчиков.",
+   "source": "Медиазона",
+   "url": "https://zona.media/news/2026/09/25/foreign-agents",
+   "tags": [
+    "за рубежом",
+    "иноагенты",
+    "журналисты"
+   ],
+   "title_en": "“Khodorkovsky LIVE” designated a “foreign agent”",
+   "summary_en": "The Justice Ministry added the news YouTube channel, which has more than 3 million subscribers, to its register of “foreign agents”.",
+   "source_en": "Mediazona",
+   "tags_en": [
+    "abroad",
+    "foreign agents",
+    "journalists"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Блогера «Деда Архимеда» заочно арестовали за «фейки» и нарушение закона об «иноагентах»",
+   "summary": "Суд в Иваново заочно арестовал 53-летнего YouTube-блогера по делам о военных «фейках» и уклонении от обязанностей «иностранного агента».",
+   "source": "Медиазона",
+   "url": "https://zona.media/news/2026/09/25/purkin",
+   "tags": [
+    "за рубежом",
+    "иноагенты"
+   ],
+   "title_en": "YouTuber “Ded Arkhimed” arrested in absentia over “fakes” and foreign-agent rules",
+   "summary_en": "A court in Ivanovo ordered the arrest in absentia of the 53-year-old blogger on charges of spreading army “fakes” and evading “foreign agent” obligations.",
+   "source_en": "Mediazona",
+   "tags_en": [
+    "abroad",
+    "foreign agents"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Четверым жителям оккупированного Мелитополя дали от 17 до 28 лет",
+   "summary": "Южный окружной военный суд осудил их по делу о подготовке покушений на назначенных Россией чиновников.",
+   "source": "Медиазона",
+   "url": "https://zona.media/news/2026/09/25/vidlatsliy",
+   "tags": [
+    "приговоры",
+    "политзаключённые"
+   ],
+   "title_en": "Four residents of occupied Melitopol sentenced to 17 to 28 years",
+   "summary_en": "The Southern District Military Court convicted them of plotting attacks on Russian-installed officials.",
+   "source_en": "Mediazona",
+   "tags_en": [
+    "verdicts",
+    "political prisoners"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "Двоих тульских парней, задержанных подростками, осудили на 6 и 7 лет за поджог на железной дороге",
+   "summary": "Тульский областной суд вынес приговор по делу о поджоге технического шкафа у путей.",
+   "source": "Медиазона",
+   "url": "https://zona.media/news/2026/09/25/tula",
+   "tags": [
+    "приговоры"
+   ],
+   "title_en": "Two Tula men, detained as teenagers, jailed for 6 and 7 years over railway arson",
+   "summary_en": "The Tula regional court sentenced them for setting fire to a trackside equipment cabinet.",
+   "source_en": "Mediazona",
+   "tags_en": [
+    "verdicts"
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "title": "На границе силовики извлекают данные из телефонов через Bluetooth",
+   "summary": "Оборудование на российской границе позволяет при досмотре извлекать с телефона через Bluetooth историю звонков и список контактов.",
+   "source": "Медиазона",
+   "url": "https://zona.media/news/2026/09/25/bluetooth",
+   "tags": [
+    "за рубежом"
+   ],
+   "title_en": "Border officers extract phone data via Bluetooth",
+   "summary_en": "Equipment used at Russian border checks can pull call history and contact lists from travellers’ phones over Bluetooth.",
+   "source_en": "Mediazona",
+   "tags_en": [
+    "abroad"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Адвокат Роман Мельниченко теряет зрение в заключении",
+   "summary": "У политзаключённого адвоката и бывшего преподавателя ВолГУ резко ухудшилось зрение, а врачи отказываются его лечить, сообщает ОВД-Инфо.",
+   "source": "ОВД-Инфо",
+   "url": "https://t.me/ovdinfo/28401",
+   "tags": [
+    "адвокаты",
+    "политзаключённые"
+   ],
+   "title_en": "Jailed lawyer Roman Melnichenko is losing his sight",
+   "summary_en": "The imprisoned lawyer and former Volgograd university lecturer has suffered a sharp decline in vision, and doctors refuse to treat him, OVD-Info reports.",
+   "source_en": "OVD-Info",
+   "tags_en": [
+    "lawyers",
+    "political prisoners"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Осуждённый крымский татарин с раком печени в критическом состоянии",
+   "summary": "58-летний политзаключённый находится в больнице ФСИН в Архангельской области, правозащитники бьют тревогу.",
+   "source": "Медиазона",
+   "url": "https://zona.media/news/2026/09/24/krym",
+   "tags": [
+    "политзаключённые"
+   ],
+   "title_en": "Jailed Crimean Tatar with liver cancer in critical condition",
+   "summary_en": "Human rights defenders say the 58-year-old political prisoner is in a critical state in a prison hospital in the Arkhangelsk region.",
+   "source_en": "Mediazona",
+   "tags_en": [
+    "political prisoners"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Суд в США отпустил под залог россиянина, просящего убежища",
+   "summary": "Артём Косолапов с конца августа сидел в миграционной тюрьме в Арканзасе. Залог — $15 тыс., риск депортации сохраняется.",
+   "source": "The Insider",
+   "url": "https://theins.ru/news/297486",
+   "tags": [
+    "за рубежом"
+   ],
+   "title_en": "US court grants bail to Russian asylum seeker",
+   "summary_en": "Artyom Kosolapov had been held in immigration detention in Arkansas since late August. Bail was set at $15,000; he still faces possible deportation.",
+   "source_en": "The Insider",
+   "tags_en": [
+    "abroad"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Пенсионерке из Екатеринбурга дали 240 часов работ за пожертвования украинской церкви",
+   "summary": "67-летнюю Надежду Есину осудили за переводы церкви «Возрождение».",
+   "source": "Медиазона",
+   "url": "https://zona.media/news/2026/09/24/esina",
+   "tags": [
+    "приговоры"
+   ],
+   "title_en": "Yekaterinburg pensioner given 240 hours’ community service for donations to a Ukrainian church",
+   "summary_en": "Nadezhda Esina, 67, was convicted over donations to the “Vozrozhdenie” church.",
+   "source_en": "Mediazona",
+   "tags_en": [
+    "verdicts"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Двум подросткам из Ангарска дали почти 9 и 10 лет за попытку поджечь военную технику",
+   "summary": "Военный суд осудил 15-летнего и 17-летнего подростков за брошенные в военную часть коктейли Молотова по делам о терроризме и госизмене; техника не пострадала.",
+   "source": "Медиазона",
+   "url": "https://zona.media/news/2026/09/24/angarsk",
+   "tags": [
+    "приговоры",
+    "политзаключённые"
+   ],
+   "title_en": "Two teenagers from Angarsk get almost 9 and 10 years for trying to set fire to military vehicles",
+   "summary_en": "A military court convicted a 15-year-old and a 17-year-old on terrorism and treason charges for throwing Molotov cocktails at a military unit; the vehicles were not damaged.",
+   "source_en": "Mediazona",
+   "tags_en": [
+    "verdicts",
+    "political prisoners"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Двух петербуржцев приговорили к 13 годам по делу о госизмене",
+   "summary": "Горсуд Петербурга дал Оксане Ронжес и Артёму Сахарову по 13 лет: их обвинили в съёмке ЛЭП и местности у военного аэродрома по заданию ГУР.",
+   "source": "Медиазона",
+   "url": "https://zona.media/news/2026/09/24/sankt",
+   "tags": [
+    "приговоры",
+    "политзаключённые"
+   ],
+   "title_en": "Two St Petersburg residents sentenced to 13 years for treason",
+   "summary_en": "The St Petersburg City Court gave Oksana Ronzhes and Artyom Sakharov 13 years each: they were accused of filming power lines and the area near a military airfield on the orders of Ukraine's GUR.",
+   "source_en": "Mediazona",
+   "tags_en": [
+    "verdicts",
+    "political prisoners"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Экс-гендиректора сервиса «Домовёнок» Никиту Жилина объявили в розыск за донаты ФБК",
+   "summary": "МВД разыскивает живущего за границей Жилина по делу о финансировании ФБК. По подсчётам «Медиазоны», по таким делам уже вынесено 167 приговоров.",
+   "source": "Медиазона",
+   "url": "https://zona.media/news/2026/09/24/zhilin",
+   "tags": [
+    "за рубежом",
+    "организации"
+   ],
+   "title_en": "Former CEO of the Domovyonok service Nikita Zhilin put on wanted list over donations to FBK",
+   "summary_en": "The Interior Ministry is seeking Zhilin, who lives abroad, in a case of financing FBK. By Mediazona's count, 167 sentences have already been handed down in such cases.",
+   "source_en": "Mediazona",
+   "tags_en": [
+    "abroad",
+    "organisations"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Журналистку «7х7» Марину Скорикову объявили в федеральный розыск",
+   "summary": "Против журналистки, признанной «иноагентом» весной 2026 года, возбудили дело о призывах к деятельности против безопасности государства.",
+   "source": "Медиазона",
+   "url": "https://zona.media/news/2026/09/24/skorikova",
+   "tags": [
+    "журналисты",
+    "иноагенты"
+   ],
+   "title_en": "7x7 journalist Marina Skorikova put on federal wanted list",
+   "summary_en": "A case for calls to act against state security has been opened against the journalist, who was designated a \"foreign agent\" in spring 2026.",
+   "source_en": "Mediazona",
+   "tags_en": [
+    "journalists",
+    "foreign agents"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Дочь жителя Новосибирска рассказала о пытках отца сотрудниками ФСБ",
+   "summary": "По словам Тони Егоровой, её отца задержали 15 сентября и под пытками требовали признаться в поджоге вышки связи.",
+   "source": "Новая газета Европа",
+   "url": "https://novayagazeta.eu/articles/2026/09/24/zhitelnitsa-novosibirska-rasskazala-kak-sotrudniki-fsb-pytali-ee-ottsa-i-trebovali-ogovorit-sebia-news",
+   "tags": [
+    "пытки"
+   ],
+   "title_en": "Daughter of Novosibirsk man says FSB officers tortured her father",
+   "summary_en": "According to Tonya Egorova, her father was detained on 15 September and tortured to make him confess to setting fire to a cell tower.",
+   "source_en": "Novaya Gazeta Europe",
+   "tags_en": [
+    "torture"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Обвиняемые по делу о поджоге машины в Ростове заявили в суде о побоях и допросах без адвоката",
+   "summary": "Фигуранты дела о сожжённом автомобиле жены офицера рассказали суду, что их избивали при задержании и допрашивали без защитника.",
+   "source": "Медиазона",
+   "url": "https://zona.media/news/2026/09/24/sokolov-tarantsev",
+   "tags": [
+    "пытки",
+    "адвокаты"
+   ],
+   "title_en": "Defendants in Rostov car arson case tell court of beatings and questioning without a lawyer",
+   "summary_en": "Defendants in the case of a burnt car belonging to an officer's wife told the court they were beaten during arrest and questioned without a defence lawyer.",
+   "source_en": "Mediazona",
+   "tags_en": [
+    "torture",
+    "lawyers"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "В перечне Росфинмониторинга 518 подростков, самому младшему 14 лет",
+   "summary": "С июня число несовершеннолетних в списке «террористов и экстремистов» выросло на 53. Самый младший внесённый родился в 2012 году.",
+   "source": "The Insider",
+   "url": "https://theins.ru/news/297471",
+   "tags": [
+    "политзаключённые"
+   ],
+   "title_en": "Rosfinmonitoring list includes 518 teenagers, the youngest aged 14",
+   "summary_en": "Since June the number of minors on the list of \"terrorists and extremists\" has grown by 53. The youngest person on it was born in 2012.",
+   "source_en": "The Insider",
+   "tags_en": [
+    "political prisoners"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Сотруднице ФБК Юлии Емельяновой грозит экстрадиция: Казахстан отказал ей в убежище",
+   "summary": "Казахстан окончательно отказал в убежище сотруднице команды Навального, и теперь её могут выдать России.",
+   "source": "Радио Свобода",
+   "url": "https://www.svoboda.org/a/sotrudnitse-navaljnogo-yulii-emeljyanovoy-grozit-ekstraditsiya-v-rf/33863791.html",
+   "tags": [
+    "за рубежом",
+    "организации"
+   ],
+   "title_en": "FBK staffer Yulia Emelyanova faces extradition as Kazakhstan denies her asylum",
+   "summary_en": "Kazakhstan has finally refused asylum to the Navalny team member, and she may now be handed over to Russia.",
+   "source_en": "Radio Liberty",
+   "tags_en": [
+    "abroad",
+    "organisations"
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "title": "Финляндия дала убежище антивоенным россиянам Беловым, которых собирались депортировать",
+   "summary": "Ольга и Никита Беловы, которых весной хотели выслать в Россию, получили убежище в Финляндии.",
+   "source": "Meduza",
+   "url": "https://meduza.io/news/2026/09/24/finlyandiya-predostavila-ubezhische-antivoennym-rossiyanam-olge-i-nikite-belovym-kotoryh-sobiralis-deportirovat",
+   "tags": [
+    "за рубежом"
+   ],
+   "title_en": "Finland grants asylum to anti-war Russians the Belovs, who faced deportation",
+   "summary_en": "Olga and Nikita Belov, whom the authorities wanted to deport to Russia in the spring, have been granted asylum in Finland.",
+   "source_en": "Meduza",
+   "tags_en": [
+    "abroad"
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "title": "Тюменца приговорили к 8 годам за Telegram Stars на 293 рубля",
+   "summary": "Военный суд осудил 57-летнего Михаила Антоновича за «финансирование терроризма»: он ставил платные реакции в каналах Наки, Невзорова и Шпака.",
+   "source": "ОВД-Инфо",
+   "url": "https://ovd.info/express-news/2026/09/23/tyumenca-prigovorili-k-8-godam-za-zvezdy-v-telegram-na-summu-menshe-300",
+   "tags": [
+    "приговоры",
+    "политзаключённые"
+   ],
+   "title_en": "Tyumen man sentenced to 8 years for Telegram Stars worth 293 roubles",
+   "summary_en": "A military court convicted 57-year-old Mikhail Antonovich of \"financing terrorism\": he left paid reactions in the channels of Naki, Nevzorov and Shpak.",
+   "source_en": "OVD-Info",
+   "tags_en": [
+    "verdicts",
+    "political prisoners"
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "title": "Жителя Комсомольска-на-Амуре осудили на 15 лет за надпись в лифте и комментарии о легионе",
+   "summary": "Военный суд назначил ему 15 лет строгого режима за граффити в лифте и комментарии в поддержку легиона «Свобода России» по статьям о госизмене и оправдании терроризма.",
+   "source": "Медиазона",
+   "url": "https://zona.media/news/2026/09/23/amurchanin",
+   "tags": [
+    "приговоры",
+    "политзаключённые"
+   ],
+   "title_en": "Komsomolsk-on-Amur man sentenced to 15 years for lift graffiti and comments about the Legion",
+   "summary_en": "A military court gave him 15 years in a strict-regime colony for graffiti in a lift and comments supporting the Freedom of Russia Legion, under treason and justifying-terrorism charges.",
+   "source_en": "Mediazona",
+   "tags_en": [
+    "verdicts",
+    "political prisoners"
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "title": "Юрия Дудя внесли в перечень «террористов и экстремистов» Росфинмониторинга",
+   "summary": "Журналиста добавили в список, после чего его банковские операции в России блокируются.",
+   "source": "ОВД-Инфо",
+   "url": "https://ovd.info/express-news/2026/09/23/yuriya-dudya-vnesli-v-perechen-terroristov-i-ekstremistov",
+   "tags": [
+    "за рубежом",
+    "журналисты"
+   ],
+   "title_en": "Yury Dud added to Rosfinmonitoring's list of \"terrorists and extremists\"",
+   "summary_en": "The journalist has been added to the list, so his bank transactions in Russia will be blocked.",
+   "source_en": "OVD-Info",
+   "tags_en": [
+    "abroad",
+    "journalists"
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "title": "Ведущего «Дождя» Михаила Фишмана начали заочно судить за участие в «нежелательной организации»",
+   "summary": "Симоновский суд Москвы рассматривает дело по ст. 284.1 УК. Защита считает, что Фишмана преследуют за журналистскую работу.",
+   "source": "Медиазона",
+   "url": "https://zona.media/news/2026/09/23/fishman",
+   "tags": [
+    "за рубежом",
+    "журналисты",
+    "нежелательные"
+   ],
+   "title_en": "TV Rain host Mikhail Fishman goes on trial in absentia for involvement in an \"undesirable organisation\"",
+   "summary_en": "Moscow's Simonovsky court is hearing the case under Article 284.1 of the Criminal Code. The defence says Fishman is being prosecuted for his journalism.",
+   "source_en": "Mediazona",
+   "tags_en": [
+    "abroad",
+    "journalists",
+    "undesirables"
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "title": "Генпрокуратура признала «нежелательными» немецкий фонд, крымский центр «Альменда» и «Друзей Фалуньгун»",
+   "summary": "В список добавили германский фонд поддержки этнических немцев, украинский центр гражданского просвещения «Альменда» и британскую организацию.",
+   "source": "The Insider",
+   "url": "https://theins.ru/news/297442",
+   "tags": [
+    "нежелательные",
+    "организации"
+   ],
+   "title_en": "Prosecutor General's Office declares a German foundation, Crimea's Almenda centre and \"Friends of Falun Gong\" \"undesirable\"",
+   "summary_en": "The list now includes a German foundation supporting ethnic Germans, the Ukrainian civic education centre Almenda and a British organisation.",
+   "source_en": "The Insider",
+   "tags_en": [
+    "undesirables",
+    "organisations"
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "title": "На блогера Александра Шпака завели новое дело о призывах к терроризму",
+   "summary": "Поводом стало видео 2024 года. Обвинение Шпаку, ранее заочно получившему 8 лет за «фейки», предъявят заочно.",
+   "source": "ОВД-Инфо",
+   "url": "https://ovd.info/express-news/2026/09/23/na-blogera-aleksandra-shpaka-zaveli-novoe-ugolovnoe-delo",
+   "tags": [
+    "за рубежом"
+   ],
+   "title_en": "New case over calls to terrorism opened against blogger Alexander Shpak",
+   "summary_en": "The case is based on a 2024 video. Shpak, previously sentenced in absentia to 8 years over \"fakes\", will be charged in absentia.",
+   "source_en": "OVD-Info",
+   "tags_en": [
+    "abroad"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "«Мемориал» попросил Дурова сделать платные реакции Telegram анонимными",
+   "summary": "Проект «Поддержка политзеков. Мемориал» считает публичный список отправителей Stars уязвимостью, по которой силовики возбуждают дела о финансировании терроризма.",
+   "source": "ОВД-Инфо",
+   "url": "https://ovd.info/express-news/2026/09/22/memorial-poprosil-durova-sdelat-zvezdy-v-telegram-anonimnymi-iz-za",
+   "tags": [
+    "организации"
+   ],
+   "title_en": "Memorial asks Durov to make paid Telegram reactions anonymous",
+   "summary_en": "The Memorial Political Prisoners Support project says the public list of Stars senders is a vulnerability that security forces use to open terrorism financing cases.",
+   "source_en": "OVD-Info",
+   "tags_en": [
+    "organisations"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "На журналиста Barents Observer Дениса Загорье завели уголовное дело и объявили его в розыск",
+   "summary": "Мурманского журналиста-«иноагента» обвиняют в нарушении требований к «иноагентам» и участии в «нежелательной» организации.",
+   "source": "ОВД-Инфо",
+   "url": "https://ovd.info/express-news/2026/09/22/murmanskogo-zhurnalista-denisa-zagore-obyavili-v-rozysk-i-sdelali",
+   "tags": [
+    "журналисты",
+    "иноагенты",
+    "нежелательные"
+   ],
+   "title_en": "Barents Observer journalist Denis Zagore charged and put on wanted list",
+   "summary_en": "The Murmansk \"foreign agent\" journalist is accused of breaking the \"foreign agent\" rules and taking part in an \"undesirable\" organisation.",
+   "source_en": "OVD-Info",
+   "tags_en": [
+    "journalists",
+    "foreign agents",
+    "undesirables"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Задержанный на избирательном участке москвич заявил о пытках электрошокером",
+   "summary": "Александр Павлов рассказал, что после попытки сфотографировать стенд УИК полицейские избили его и более 20 раз ударили током.",
+   "source": "ОВД-Инфо",
+   "url": "https://ovd.info/express-news/2026/09/22/v-moskve-zaderzhannyy-na-izbiratelnom-uchastke-zayavil-o-pytkakh-tokom",
+   "tags": [
+    "пытки"
+   ],
+   "title_en": "Muscovite detained at a polling station says he was tortured with a stun gun",
+   "summary_en": "Alexander Pavlov says that after he tried to photograph the election commission's notice board, police beat him and shocked him more than 20 times.",
+   "source_en": "OVD-Info",
+   "tags_en": [
+    "torture"
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "title": "Политзаключённый саксофонист Андрей Шабанов попросил включить его в обмен",
+   "summary": "Осуждённый за посты с критикой Кремля музыкант с инвалидностью рассказал о давлении в колонии и попросил внести его в обменные списки.",
+   "source": "Новая газета Европа",
+   "url": "https://novayagazeta.eu/articles/2026/09/22/ia-razbit-ot-bezyskhodnosti-politzakliuchennyi-saksofonist-andrei-shabanov-poprosil-vkliuchit-ego-v-obmennye-spiski-news",
+   "tags": [
+    "политзаключённые"
+   ],
+   "title_en": "Political prisoner and saxophonist Andrei Shabanov asks to be included in a prisoner swap",
+   "summary_en": "The musician, who has a disability and was convicted over posts criticising the Kremlin, described pressure in the penal colony and asked to be put on the exchange lists.",
+   "source_en": "Novaya Gazeta Europe",
+   "tags_en": [
+    "political prisoners"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Минюст признал режиссёра Андрея Звягинцева «иноагентом»",
+   "summary": "Министерство заявило, что режиссёр сотрудничал с «иноагентами» и «нежелательными» организациями. В тот же список попали ещё несколько человек.",
+   "source": "ОВД-Инфо",
+   "url": "https://ovd.info/express-news/2026/09/18/minyust-priznal-rezhissera-andreya-zvyaginceva-inoagentom",
+   "tags": [
+    "за рубежом",
+    "иноагенты"
+   ],
+   "title_en": "Justice Ministry designates film director Andrei Zvyagintsev a \"foreign agent\"",
+   "summary_en": "The ministry said the director had worked with \"foreign agents\" and \"undesirable\" organisations. Several other people were added to the list at the same time.",
+   "source_en": "OVD-Info",
+   "tags_en": [
+    "abroad",
+    "foreign agents"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "МВД объявило в розыск журналиста «Медузы» Владислава Горина",
+   "summary": "Журналиста издания, признанного «нежелательным», внесли в базу разыскиваемых.",
+   "source": "ОВД-Инфо",
+   "url": "https://ovd.info/express-news/2026/09/18/mvd-obyavilo-v-rozysk-zhurnalista-meduzy-vladislava-gorina",
+   "tags": [
+    "за рубежом",
+    "журналисты"
+   ],
+   "title_en": "Interior Ministry puts Meduza journalist Vladislav Gorin on wanted list",
+   "summary_en": "The journalist, whose outlet is designated \"undesirable\", has been added to the wanted database.",
+   "source_en": "OVD-Info",
+   "tags_en": [
+    "abroad",
+    "journalists"
+   ]
+  },
+  {
+   "date": "2026-09-18",
+   "title": "Художнику из Рыбинска дали восемь лет за переводы Вячеславу Мальцеву",
+   "summary": "Суд признал денежные переводы блогеру финансированием экстремизма.",
+   "source": "ОВД-Инфо",
+   "url": "https://ovd.info/express-news/2026/09/18/khudozhniku-iz-rybinska-dali-vosem-let-za-perevody-vyacheslavu-malcevu",
+   "tags": [
+    "приговоры",
+    "политзаключённые"
+   ],
+   "title_en": "Rybinsk artist sentenced to eight years for money transfers to Vyacheslav Maltsev",
+   "summary_en": "The court ruled that the transfers to the blogger amounted to financing extremism.",
+   "source_en": "OVD-Info",
+   "tags_en": [
+    "verdicts",
+    "political prisoners"
+   ]
+  },
+  {
+   "date": "2026-09-17",
+   "title": "Жанну Немцову объявили в международный розыск",
+   "summary": "Журналистку и дочь Бориса Немцова внесли в международный розыск по уголовному делу.",
+   "source": "ОВД-Инфо",
+   "url": "https://ovd.info/express-news/2026/09/17/zhannu-nemcovu-obyavili-v-mezhdunarodnyy-rozysk",
+   "tags": [
+    "за рубежом",
+    "журналисты"
+   ],
+   "title_en": "Zhanna Nemtsova put on international wanted list",
+   "summary_en": "The journalist and daughter of Boris Nemtsov has been put on the international wanted list in a criminal case.",
+   "source_en": "OVD-Info",
+   "tags_en": [
+    "abroad",
+    "journalists"
+   ]
+  }
+ ]
+}
