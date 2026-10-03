@@ -1,0 +1,14 @@
+{
+  "prerender": [
+    {
+      "source": "document",
+      "where": {
+        "and": [
+          { "href_matches": "/*" },
+          { "not": { "selector_matches": "#exit, a[download], a[href$='.pdf'], a[href$='.xml'], a[href$='.json'], a[href$='.txt']" } }
+        ]
+      },
+      "eagerness": "moderate"
+    }
+  ]
+}
